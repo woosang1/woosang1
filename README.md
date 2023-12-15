@@ -16,7 +16,7 @@
 </p>
 
 
-<h3 align="center"><b>📚 Social 📚</b></h3>
+<h3 align="center"><b>🌍 Social 🌍</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
