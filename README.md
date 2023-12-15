@@ -1,7 +1,18 @@
-<img src="https://www.itworld.co.kr/files/itworld/ITW_202212_02/Android_14.jpg" alt="Android Image" height="200">
+<div>
+  <img src="https://www.itworld.co.kr/files/itworld/ITW_202212_02/Android_14.jpg" alt="Android Image" height="200">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosang1)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1" alt="Top Langs">
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=woosang1" alt="GitHub Stats">
+  </a>
+</div>
 
 <h3 align="center"><b>📚 Skill 📚</b></h3>
 </br>
