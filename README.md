@@ -1,4 +1,4 @@
-<img src="https://www.itworld.co.kr/files/itworld/ITW_202212_02/Android_14.jpg"/>
+<img src="https://www.itworld.co.kr/files/itworld/ITW_202212_02/Android_14.jpg" alt="Android Image" height="200">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosang1)](https://github.com/anuraghazra/github-readme-stats)
