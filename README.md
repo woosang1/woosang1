@@ -14,6 +14,14 @@
   </a>
 </div>
 
+<div>
+  <a href="https://solved.ac/wsl2918/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918" alt="Solved.ac Profile">
+  </a>
+</div>
+
+
+
 <h3 align="center"><b>📚 Skill 📚</b></h3>
 </br>
 <p align="center">
