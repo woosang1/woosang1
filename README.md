@@ -1,26 +1,13 @@
 <div>
-  <img src="https://www.itworld.co.kr/files/itworld/ITW_202212_02/Android_14.jpg" alt="Android Image" height="200">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=woosang1" alt="GitHub Stats" style="max-width: 100%;">
+  </a>
 </div>
-
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=woosang1" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1" alt="Top Langs" style="max-width: 100%;">
   </a>
 </div>
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1" alt="Top Langs">
-  </a>
-</div>
-
-<div>
-  <a href="https://solved.ac/wsl2918/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918" alt="Solved.ac Profile">
-  </a>
-</div>
-
-
 
 <h3 align="center"><b>📚 Skill 📚</b></h3>
 <p align="center">
