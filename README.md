@@ -23,7 +23,6 @@
 
 
 <h3 align="center"><b>📚 Skill 📚</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -35,9 +34,7 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
-
 <h3 align="center"><b>🌍 Social 🌍</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
 <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
