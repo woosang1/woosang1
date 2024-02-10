@@ -8,6 +8,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1" alt="Top Langs" style="max-width: 100%;">
   </a>
 </div>
+<div align="center">
+  <a href="https://solved.ac/wsl2918/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918" alt="Solved.ac Profile">
+  </a>
+</div>
 
 <h3 align="center"><b>Tech Stack</b></h3>
 <p align="center">
