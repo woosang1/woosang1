@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=woosang1" alt="GitHub Stats" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%;">
   </a>
 </div>
 <div align="center">
