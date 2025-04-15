@@ -1,49 +1,35 @@
 # 👨‍💻 우상's Dev Profile
 
-## 👋 Hello there! I am Woosang.
-I'm a passionate Android developer, specializing in Kotlin, Jetpack Compose, and modern Android architectures. I enjoy building clean, scalable, and efficient apps.
+## 👋 Hello! I'm Woosang.
+Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern Android architectures. I love building clean, scalable, and efficient apps.
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Top Languages
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   </a>
-</div>
-
-## 🏅 Solved.ac Profile
-
-<div align="center">
-  <a href="https://solved.ac/wsl2918">
+  <br>
+    <a href="https://solved.ac/wsl2918">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile"/>
   </a>
-</div>
-
-## 🌐 Top Languages
-
-<div align="center">
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </a>
+
 </div>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <!-- Language & IDE -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <br>
-
-  <!-- Architecture & Components -->
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVI-2962FF?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hilt-D00000?style=flat-square&logo=dagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coroutine-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
-  <br>
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white"/>
 </p>
