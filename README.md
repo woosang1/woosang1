@@ -3,9 +3,29 @@
 ## 👋 Hello there! I am Woosang.
 I'm a passionate Android developer, specializing in Kotlin, Jetpack Compose, and modern Android architectures. I enjoy building clean, scalable, and efficient apps.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark)](https://solved.ac/wsl2918)
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  </a>
+</div>
+
+## 🏅 Solved.ac Profile
+
+<div align="center">
+  <a href="https://solved.ac/wsl2918">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile"/>
+  </a>
+</div>
+
+## 🌐 Top Languages
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</div>
 
 ## 🛠 Tech Stack
 
