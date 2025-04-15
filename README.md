@@ -30,23 +30,6 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
   <img src="https://img.shields.io/badge/MVI-2962FF?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hilt-D00000?style=flat-square&logo=dagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coroutine-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white"/>
 </p>
 
-## 🌐 Social
 
-<p align="center">
-  <a href="https://kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
-  <a href="https://www.naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="https://www.google.com"><img src="https://img.shields.io/badge/google-EA4335?style=flat-square&logo=google&logoColor=white"/></a>
-  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-0866FF?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-</p>
-
-## 🏅 Badges
-
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2021-%23ff7b00?style=flat-square&logo=github&logoColor=white)
-![CI](https://img.shields.io/badge/CI-Enabled-%2327ae60?style=flat-square&logo=circleci&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-%23129E57?style=flat-square&logo=github&logoColor=white)
