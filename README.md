@@ -1,21 +1,14 @@
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%;">
-  </a>
-</div>
-<div align="center">
-  <a href="https://solved.ac/wsl2918/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile">
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width: 100%;">
-  </a>
-</div>
+# 👨‍💻 우상's Dev Profile
 
+## 👋 Hello there! I am Woosang.
+I'm a passionate Android developer, specializing in Kotlin, Jetpack Compose, and modern Android architectures. I enjoy building clean, scalable, and efficient apps.
 
-<h3 align="center"><b>Tech Stack</b></h3>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark)](https://solved.ac/wsl2918)
+
+## 🛠 Tech Stack
+
 <p align="center">
   <!-- Language & IDE -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -35,14 +28,19 @@
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white"/>
 </p>
 
+## 🌐 Social
+
+<p align="center">
+  <a href="https://kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
+  <a href="https://www.naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://www.google.com"><img src="https://img.shields.io/badge/google-EA4335?style=flat-square&logo=google&logoColor=white"/></a>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-0866FF?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
 
-<h3 align="center"><b>Social</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
-<img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/google-EA4335?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/facebook-0866FF?style=flat-square&logo=facebook&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-</p>
+## 🏅 Badges
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2021-%23ff7b00?style=flat-square&logo=github&logoColor=white)
+![CI](https://img.shields.io/badge/CI-Enabled-%2327ae60?style=flat-square&logo=circleci&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-%23129E57?style=flat-square&logo=github&logoColor=white)
