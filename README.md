@@ -18,29 +18,21 @@
 <h3 align="center"><b>Tech Stack</b></h3>
 <p align="center">
   <!-- Language & IDE -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  
-  <!-- Architecture & Modern Components -->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+  <br>
+
+  <!-- Architecture & Components -->
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white"/>
-  <!-- 아키텍처 뱃지 -->
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00C853?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVI-2962FF?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hilt-D00000?style=flat-square&logo=dagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room-6DB33F?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LiveData-FF7043?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flow-0277BD?style=flat-square&logo=airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coroutine-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
   <br>
-  <!-- Network -->
-  <img src="https://img.shields.io/badge/Retrofit-3EAF7C?style=flat-square&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OkHttp-4DB6AC?style=flat-square&logo=square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white"/>
 </p>
 
 </p>
