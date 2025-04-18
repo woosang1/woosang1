@@ -7,10 +7,15 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
 
 ## 📊 GitHub Stats & Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" width="48%" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight&langs_count=6" width="48%" height="180px" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+   <img src="https://github-readme-stats.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" width="48%" height="180px" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight&langs_count=6" width="48%" height="180px" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosang1&theme=tokyo-night&area=true&hide_border=true" width="96%" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosang1&theme=tokyo-night&area=true&hide_border=true" width="96%" />
+  </a>
 </div>
 
 ## 🧠 Algorithm
