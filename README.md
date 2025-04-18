@@ -13,7 +13,7 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosang1&theme=tokyo-night&area=true&hide_border=true" width="96%" />
 </div>
 
-## 🧠 알고리즘
+## 🧠 Algorithm
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile"  width="48%" height="180px" />
 </div>
