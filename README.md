@@ -16,13 +16,9 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
 ## 🧠 알고리즘
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile"  width="48%" height="180px" />
-<div align="center">
-
-
-
+</div>
 
 ## 🛠 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
