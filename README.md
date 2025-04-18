@@ -15,8 +15,11 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
 
 ## 🧠 Algorithm
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile"  width="48%" height="180px" />
+  <a href="https://solved.ac/wsl2918" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wsl2918&theme=dark" alt="Solved.ac Profile" width="48%" height="180px" />
+  </a>
 </div>
+
 
 ## 🛠 Tech Stack
 <p align="center">
