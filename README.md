@@ -27,16 +27,28 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
 
 
 ## 🛠 Tech Stack
+<div align="center"> 📱 Android </div> 
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVI-2962FF?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hilt-D00000?style=flat-square&logo=dagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coroutine-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVI-2962FF?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-D00000?style=flat-square&logo=dagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutine-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
 </p>
 
-
+<div align="center"> 💻 Backend </div>  
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-4479A1?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</p>
 
 
