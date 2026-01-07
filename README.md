@@ -10,7 +10,7 @@ Passionate Android developer specializing in Kotlin, Jetpack Compose, and modern
 
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
    <img src="https://github-readme-stats-git-master-woosang1s-projects.vercel.app/api?username=woosang1&show_icons=true&theme=tokyonight&hide_rank=false" width="48%" height="180px" width="48%" height="180px" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight&langs_count=6" width="48%" height="180px" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=woosang1&layout=compact&theme=tokyonight&langs_count=6" width="48%" height="180px" />
   </a>
   <br/><br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
